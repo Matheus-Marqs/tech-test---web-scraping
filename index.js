@@ -22,6 +22,19 @@ class CarrefourScraper {
     };
   }
 
+  async clearOutputFile() {
+    try {
+      await fs.access('./output.json');
+      await fs.unlink('./output.json');
+
+      await new Promise((resolve) => setTimeout(resolve, 5000));
+    } catch (error) {
+      if (error.code !== "ENOENT") {
+        console.error("Erro ao tentar remover output.js:", error);
+      }
+    }
+  }
+
   buildUrl(variables) {
     const encoded = encodeURIComponent(JSON.stringify(variables));
     return `${this.baseUrl}?operationName=ProductsQuery&variables=${encoded}`;
@@ -74,6 +87,7 @@ class CarrefourScraper {
 
 (async () => {
   const scraper = new CarrefourScraper();
+  await scraper.clearOutputFile();
   const products = await scraper.scrapeAllProducts();
   scraper.saveToFile(products);
 })();

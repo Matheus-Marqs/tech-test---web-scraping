@@ -85,12 +85,12 @@
     "lastPrice": 84.9
   },
   {
-    "name": "Bebida Láctea Cappuccino Zero Lactose Yopro Energy Boost 250ml",
+    "name": "Bebida Láctea Zero Lactose Morango YoPRO 15g Shake 250 ml",
     "currentPrice": 7.09,
     "lastPrice": 7.09
   },
   {
-    "name": "Bebida Láctea Zero Lactose Morango YoPRO 15g Shake 250 ml",
+    "name": "Bebida Láctea Cappuccino Zero Lactose Yopro Energy Boost 250ml",
     "currentPrice": 7.09,
     "lastPrice": 7.09
   },
@@ -170,6 +170,11 @@
     "lastPrice": 5.19
   },
   {
+    "name": "Smirnoff Ice 275ml",
+    "currentPrice": 6.59,
+    "lastPrice": 7.79
+  },
+  {
     "name": "Vinho Branco Casal Garcia 750ml",
     "currentPrice": 54.9,
     "lastPrice": 64.9
@@ -178,11 +183,6 @@
     "name": "Vinho Branco Casal Garcia Sweet 750ml",
     "currentPrice": 54.9,
     "lastPrice": 64.9
-  },
-  {
-    "name": "Smirnoff Ice 275ml",
-    "currentPrice": 6.59,
-    "lastPrice": 7.79
   },
   {
     "name": "Cerveja Skol Pilsen Lata 269ml Pack 15 Unidades",
@@ -345,12 +345,12 @@
     "lastPrice": 3.49
   },
   {
-    "name": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 2L",
+    "name": "Refrigerante Guaraná Antarctica Garrafa 2L",
     "currentPrice": 8.39,
     "lastPrice": 9.39
   },
   {
-    "name": "Refrigerante Guaraná Antarctica Garrafa 2L",
+    "name": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 2L",
     "currentPrice": 8.39,
     "lastPrice": 9.39
   },
@@ -370,14 +370,14 @@
     "lastPrice": 6.69
   },
   {
-    "name": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
-    "currentPrice": 3.79,
-    "lastPrice": 4.79
-  },
-  {
     "name": "Refrigerante Guaraná Antarctica Sem Açúcar Garrafa 600ML",
     "currentPrice": 3.79,
     "lastPrice": 4.49
+  },
+  {
+    "name": "Cerveja Eisenbahn Pilsen Puro Malte Lata 350ml",
+    "currentPrice": 3.79,
+    "lastPrice": 4.79
   },
   {
     "name": "Cerveja Skol Pilsen Lata 269ml",
@@ -575,14 +575,14 @@
     "lastPrice": 5.99
   },
   {
-    "name": "Bebida à Base de Aveia Orgânica Nude 1L",
-    "currentPrice": 15.99,
-    "lastPrice": 18.9
-  },
-  {
     "name": "Àgua Mineral Saborizada com Gás Limão Crystal  Pet 520 ml",
     "currentPrice": 3.25,
     "lastPrice": 3.25
+  },
+  {
+    "name": "Bebida à Base de Aveia Orgânica Nude 1L",
+    "currentPrice": 15.99,
+    "lastPrice": 18.9
   },
   {
     "name": "Whisky Johnnie Walker Black Label 750ml",
@@ -645,6 +645,11 @@
     "lastPrice": 2.99
   },
   {
+    "name": "Suco Concentrado de Maracujá Dafruta 500ml",
+    "currentPrice": 6.39,
+    "lastPrice": 7.99
+  },
+  {
     "name": "Refrigerante Soda Limonada Antarctica Zero Lata 350ML",
     "currentPrice": 2.49,
     "lastPrice": 2.99
@@ -653,11 +658,6 @@
     "name": "Coca-Cola Café Espresso Plus Lata 220 ml",
     "currentPrice": 2.49,
     "lastPrice": 2.79
-  },
-  {
-    "name": "Suco Concentrado de Maracujá Dafruta 500ml",
-    "currentPrice": 6.39,
-    "lastPrice": 7.99
   },
   {
     "name": "Espumante Chandon Réserve Brut 750ml",
@@ -870,14 +870,14 @@
     "lastPrice": 38.9
   },
   {
-    "name": "Suco de Goiaba Maguary 500ml",
-    "currentPrice": 7.35,
-    "lastPrice": 7.35
-  },
-  {
     "name": "Água Tônica Zero Açúcar Schweppes Lata 220ml",
     "currentPrice": 2.49,
     "lastPrice": 2.99
+  },
+  {
+    "name": "Suco de Goiaba Maguary 500ml",
+    "currentPrice": 7.35,
+    "lastPrice": 7.35
   },
   {
     "name": "Água Tônica Antarctica Garrafa 1L",
@@ -1095,12 +1095,12 @@
     "lastPrice": 14.49
   },
   {
-    "name": "Suco Del Valle Néctar Laranja 1L",
+    "name": "Suco Del Valle Néctar Pêssego 1L",
     "currentPrice": 7.99,
     "lastPrice": 8.99
   },
   {
-    "name": "Suco Del Valle Néctar Pêssego 1L",
+    "name": "Suco Del Valle Néctar Laranja 1L",
     "currentPrice": 7.99,
     "lastPrice": 8.99
   },
@@ -1133,11 +1133,6 @@
     "name": "Néctar de Pêssego Sem Açúcar Del Valle 1 L",
     "currentPrice": 8.15,
     "lastPrice": 8.15
-  },
-  {
-    "name": "Suco Concentrado Manga Da Fruta 500 ml",
-    "currentPrice": 6.39,
-    "lastPrice": 7.99
   },
   {
     "name": "Refrigerante Limão Siciliano FYs Lata 350ml",
@@ -1395,11 +1390,6 @@
     "lastPrice": 8.79
   },
   {
-    "name": "Cerveja Patagonia Weisse, 355ml, Long Neck",
-    "currentPrice": 6.09,
-    "lastPrice": 7.19
-  },
-  {
     "name": "Bebida Láctea Nescafé Cappuccino Clássico 270ml",
     "currentPrice": 4.99,
     "lastPrice": 6.99
@@ -1423,6 +1413,11 @@
     "name": "Refrigerante Mexerica e Limão Bioleve Zero Garrafa 1,5 L",
     "currentPrice": 4.49,
     "lastPrice": 5.29
+  },
+  {
+    "name": "Cerveja Patagonia Weisse, 355ml, Long Neck",
+    "currentPrice": 6.09,
+    "lastPrice": 7.19
   },
   {
     "name": "Vinho Branco Seco Chardonnay Kressmann 2019 750 ml",
@@ -1655,11 +1650,6 @@
     "lastPrice": 6.05
   },
   {
-    "name": "Refrigerante h2oh Limoneto Garrafa 500ML",
-    "currentPrice": 3.59,
-    "lastPrice": 3.99
-  },
-  {
     "name": "Vinho Tinto Chileno Concha Y Toro Reservado Cabernet Sauvignon 750 ml",
     "currentPrice": 33.9,
     "lastPrice": 33.9
@@ -1668,6 +1658,11 @@
     "name": "Água Mineral sem Gás Crystal 5 L",
     "currentPrice": 10.95,
     "lastPrice": 10.95
+  },
+  {
+    "name": "Refrigerante h2oh Limoneto Garrafa 500ML",
+    "currentPrice": 3.59,
+    "lastPrice": 3.99
   },
   {
     "name": "Suco Uva Maguary Fruit Shoot Caixa 150 ml",
@@ -1855,14 +1850,14 @@
     "lastPrice": 9.29
   },
   {
-    "name": "Vinho Italiano Rose Carmelina Lambrusco 750 ml",
-    "currentPrice": 34.9,
-    "lastPrice": 34.9
-  },
-  {
     "name": "Aperitivo Lillet Blanc de Vinho Francês 750ml",
     "currentPrice": 124.9,
     "lastPrice": 124.9
+  },
+  {
+    "name": "Vinho Italiano Rose Carmelina Lambrusco 750 ml",
+    "currentPrice": 34.9,
+    "lastPrice": 34.9
   },
   {
     "name": "Energético Red Bull Tropical 250ml",
@@ -1875,24 +1870,24 @@
     "lastPrice": 23.99
   },
   {
-    "name": "Vinho Tinto Chileno Siete Soles Carmenere 750 ml",
-    "currentPrice": 28.9,
-    "lastPrice": 28.9
-  },
-  {
     "name": "Cerveja Quilmes Lata 350Ml",
     "currentPrice": 3.99,
     "lastPrice": 3.99
   },
   {
-    "name": "Refresco em pó Clight Sem Açúcar Limonada 8g",
-    "currentPrice": 2.05,
-    "lastPrice": 2.05
+    "name": "Vinho Tinto Chileno Siete Soles Carmenere 750 ml",
+    "currentPrice": 28.9,
+    "lastPrice": 28.9
   },
   {
     "name": "Energético à Base de Taurina e Cafeína Zero Açúcar Monster 473ml",
     "currentPrice": 9.29,
     "lastPrice": 9.29
+  },
+  {
+    "name": "Refresco em pó Clight Sem Açúcar Limonada 8g",
+    "currentPrice": 2.05,
+    "lastPrice": 2.05
   },
   {
     "name": "Gin Gordon's Pink 700ml",
@@ -1945,14 +1940,14 @@
     "lastPrice": 1.29
   },
   {
-    "name": "Suco Misto Uva e Maçã Natural One Ambiente Garrafa 180 ml",
-    "currentPrice": 3.99,
-    "lastPrice": 3.99
-  },
-  {
     "name": "Bebida Láctea 15g Proteínas Sabor Morango Carrefour Sensation Whey 250ml",
     "currentPrice": 5.15,
     "lastPrice": 5.15
+  },
+  {
+    "name": "Suco Misto Uva e Maçã Natural One Ambiente Garrafa 180 ml",
+    "currentPrice": 3.99,
+    "lastPrice": 3.99
   },
   {
     "name": "Vinho Malbec Punta Negra La Parcela 750ml",
@@ -1965,14 +1960,14 @@
     "lastPrice": 5.29
   },
   {
-    "name": "Refresco em pó Tang Limão 18g",
-    "currentPrice": 1.29,
-    "lastPrice": 1.29
-  },
-  {
     "name": "Chá Matte Leão Limão 1,5L",
     "currentPrice": 8.39,
     "lastPrice": 8.39
+  },
+  {
+    "name": "Refresco em pó Tang Limão 18g",
+    "currentPrice": 1.29,
+    "lastPrice": 1.29
   },
   {
     "name": "Chá Ice Tea Leão Limão 1,5L",
@@ -2015,6 +2010,11 @@
     "lastPrice": 2.65
   },
   {
+    "name": "Vinho Branco Chileno Siete Soles - 750 ml",
+    "currentPrice": 28.9,
+    "lastPrice": 28.9
+  },
+  {
     "name": "Kit Cerveja Heineken 350ml Sleek Com 24 Unidades",
     "currentPrice": 138.96,
     "lastPrice": 138.96
@@ -2023,11 +2023,6 @@
     "name": "Bebida Láctea Cappuccino Doce de Leite 3 Corações Power Whey 15g 250ml",
     "currentPrice": 7.99,
     "lastPrice": 7.99
-  },
-  {
-    "name": "Vinho Branco Chileno Siete Soles - 750 ml",
-    "currentPrice": 28.9,
-    "lastPrice": 28.9
   },
   {
     "name": "Whisky Jack Daniel's Americano 5 Anos Apple 1 L",
@@ -2090,11 +2085,6 @@
     "lastPrice": 7.55
   },
   {
-    "name": "Vinho Branco Chileno Concha Y Toro Reservado Sauvignon Blanc 750 ml",
-    "currentPrice": 33.9,
-    "lastPrice": 33.9
-  },
-  {
     "name": "Néctar Misto Sabor Uva e Maçã Carrefour Classic 1L",
     "currentPrice": 5.19,
     "lastPrice": 5.19
@@ -2103,6 +2093,11 @@
     "name": "Refrigerante Coca-Cola Garrafa 2 L 6 Unidades",
     "currentPrice": 67.14,
     "lastPrice": 67.14
+  },
+  {
+    "name": "Vinho Branco Chileno Concha Y Toro Reservado Sauvignon Blanc 750 ml",
+    "currentPrice": 33.9,
+    "lastPrice": 33.9
   },
   {
     "name": "Espumante Terroir Du Monde Moscatel Brut Branco 750ml",
@@ -2195,14 +2190,14 @@
     "lastPrice": 7.99
   },
   {
-    "name": "Gatorade Sabor Frutas Silvestres Atividades Diárias 350ml",
-    "currentPrice": 3.99,
-    "lastPrice": 3.99
-  },
-  {
     "name": "Suco de Uva Maguary Fruit Shoot150ML",
     "currentPrice": 1.53,
     "lastPrice": 1.53
+  },
+  {
+    "name": "Gatorade Sabor Frutas Silvestres Atividades Diárias 350ml",
+    "currentPrice": 3.99,
+    "lastPrice": 3.99
   },
   {
     "name": "Espumante Sweet Dolce Moscato Natale Verga 750ml",
@@ -2220,19 +2215,9 @@
     "lastPrice": 34.68
   },
   {
-    "name": "Água Mineral com Gás São Lourenço 300ml",
-    "currentPrice": 3.15,
-    "lastPrice": 3.15
-  },
-  {
     "name": "Bebida Láctea de Chocolate Italakinho 200ml",
     "currentPrice": 1.55,
     "lastPrice": 1.55
-  },
-  {
-    "name": "Cerveja Heineken Premium Pilsen Lager 330ml - 48 Unidades",
-    "currentPrice": 325.92,
-    "lastPrice": 325.92
   },
   {
     "name": "Café Solúvel Extra Forte Carrefour SC 100g",
@@ -2240,9 +2225,19 @@
     "lastPrice": 8.79
   },
   {
+    "name": "Água Mineral com Gás São Lourenço 300ml",
+    "currentPrice": 3.15,
+    "lastPrice": 3.15
+  },
+  {
     "name": "Cerveja Original Pilsen 350ml Lata 12 Unidades",
     "currentPrice": 41.88,
     "lastPrice": 41.88
+  },
+  {
+    "name": "Cerveja Heineken Premium Pilsen Lager 330ml - 48 Unidades",
+    "currentPrice": 325.92,
+    "lastPrice": 325.92
   },
   {
     "name": "Vinho Tinto JP Azeitão 750ml",
@@ -2265,14 +2260,14 @@
     "lastPrice": 134.9
   },
   {
-    "name": "Bebida Láctea Alpino 280ml",
-    "currentPrice": 6.89,
-    "lastPrice": 6.89
-  },
-  {
     "name": "Vinho Tinto Frisante Carmelina Lambrusco 750ml",
     "currentPrice": 34.9,
     "lastPrice": 34.9
+  },
+  {
+    "name": "Bebida Láctea Alpino 280ml",
+    "currentPrice": 6.89,
+    "lastPrice": 6.89
   },
   {
     "name": "Vinho Branco Seco Terroirs Du Monde Verde 2018 750ml",
@@ -2290,11 +2285,6 @@
     "lastPrice": 25.9
   },
   {
-    "name": "Refrigerante Fanta Laranja 350ML",
-    "currentPrice": 3.19,
-    "lastPrice": 3.19
-  },
-  {
     "name": "Chá Verde Frutas Vermelhas Zero Açúcar Yaí 1L",
     "currentPrice": 7.49,
     "lastPrice": 7.49
@@ -2303,6 +2293,11 @@
     "name": "Vinho Branco Chileno Casillero del Diablo Sauvignon Blanc Reserva 750 ml",
     "currentPrice": 61.15,
     "lastPrice": 61.15
+  },
+  {
+    "name": "Refrigerante Fanta Laranja 350ML",
+    "currentPrice": 3.19,
+    "lastPrice": 3.19
   },
   {
     "name": "Café Pilão Cápsula Forte  10 unidades",
@@ -2315,11 +2310,6 @@
     "lastPrice": 15.69
   },
   {
-    "name": "Vinho Rosé Salton Lunae 750ml",
-    "currentPrice": 22.9,
-    "lastPrice": 22.9
-  },
-  {
     "name": "Cachaça Velho Barreiro 910 ml",
     "currentPrice": 15.25,
     "lastPrice": 15.25
@@ -2328,6 +2318,11 @@
     "name": "Vinho Tinto Chalise Isabel, Concord e Seibel 750ml",
     "currentPrice": 14.9,
     "lastPrice": 14.9
+  },
+  {
+    "name": "Vinho Rosé Salton Lunae 750ml",
+    "currentPrice": 22.9,
+    "lastPrice": 22.9
   },
   {
     "name": "Cerveja Lager Corona Extra 330 ml 48 unidades",
@@ -2380,14 +2375,14 @@
     "lastPrice": 32.55
   },
   {
-    "name": "Suco Maçã Del Valle Caixa 200 ml",
-    "currentPrice": 3.89,
-    "lastPrice": 3.89
-  },
-  {
     "name": "Cachaça 51 965ml",
     "currentPrice": 13.9,
     "lastPrice": 14.9
+  },
+  {
+    "name": "Suco Maçã Del Valle Caixa 200 ml",
+    "currentPrice": 3.89,
+    "lastPrice": 3.89
   },
   {
     "name": "Suco Manga Tial Caixa 1 Litro 1 Unidade",
@@ -2395,14 +2390,14 @@
     "lastPrice": 6.89
   },
   {
-    "name": "Cerveja Spaten Lata Sleek 350 ml 12 Unidades",
-    "currentPrice": 49.08,
-    "lastPrice": 49.08
-  },
-  {
     "name": "Whisky Ballantine's 10 Anos Blended Escocês - 1 Litro",
     "currentPrice": 150.9,
     "lastPrice": 150.9
+  },
+  {
+    "name": "Cerveja Spaten Lata Sleek 350 ml 12 Unidades",
+    "currentPrice": 49.08,
+    "lastPrice": 49.08
   },
   {
     "name": "Café Torrado e Moído Tradicional Jardim 500 g",
@@ -2445,11 +2440,6 @@
     "lastPrice": 3.39
   },
   {
-    "name": "Refrigerante Sukita Laranja Garrafa 200ML",
-    "currentPrice": 1.25,
-    "lastPrice": 1.49
-  },
-  {
     "name": "Whisky Johnnie Walker Red Label 1L 2 Unidades",
     "currentPrice": 219.8,
     "lastPrice": 219.8
@@ -2458,6 +2448,11 @@
     "name": "Suco Integral Del Valle 100% Suco de Uva 1 Litro - 3 Unidades",
     "currentPrice": 53.97,
     "lastPrice": 53.97
+  },
+  {
+    "name": "Refrigerante Sukita Laranja Garrafa 200ML",
+    "currentPrice": 1.25,
+    "lastPrice": 1.49
   },
   {
     "name": "Água Mineral com Gás San Pellegrino 750ml",
@@ -2500,19 +2495,24 @@
     "lastPrice": 35.9
   },
   {
+    "name": "Energético Maracujá & Melão Red Bull Lata 250ml The Summer Edition",
+    "currentPrice": 9.89,
+    "lastPrice": 9.89
+  },
+  {
     "name": "Whisky Johnnie Walker Red Label 1L 3 Unidades",
     "currentPrice": 329.7,
     "lastPrice": 329.7
   },
   {
+    "name": "Água de Coco Coco Quadrado Com 1L",
+    "currentPrice": 7.45,
+    "lastPrice": 7.45
+  },
+  {
     "name": "Energético Monster Energy Absolutely Zero 473ml",
     "currentPrice": 9.29,
     "lastPrice": 9.29
-  },
-  {
-    "name": "Energético Maracujá & Melão Red Bull Lata 250ml The Summer Edition",
-    "currentPrice": 9.89,
-    "lastPrice": 9.89
   },
   {
     "name": "Kit Cerveja Brahma Duplo Malte Puro Malte 350ml Lata 24 Unidades",
@@ -2523,11 +2523,6 @@
     "name": "Chá Branco Lichia Zero Açúcar Leão 1,5L",
     "currentPrice": 8.25,
     "lastPrice": 8.25
-  },
-  {
-    "name": "Água de Coco Coco Quadrado Com 1L",
-    "currentPrice": 7.45,
-    "lastPrice": 7.45
   },
   {
     "name": "Erva-mate Chimarrão Tradicional Gaúcho Pacote 500g",
@@ -2640,29 +2635,14 @@
     "lastPrice": 61.15
   },
   {
-    "name": "Energético Ultra Peachy Keen Pêssego Zero Açúcar Monster 473ml",
-    "currentPrice": 9.29,
-    "lastPrice": 9.29
-  },
-  {
-    "name": "Bebida Láctea Neston Maçã, Banana e Mamão 280ml",
-    "currentPrice": 7.05,
-    "lastPrice": 7.05
-  },
-  {
-    "name": "Cerveja Budweiser Pilsen 330ml 24 Unidades",
-    "currentPrice": 119.76,
-    "lastPrice": 119.76
-  },
-  {
     "name": "Drink Pronto Beats Senses Long Neck 269ml",
     "currentPrice": 6.99,
     "lastPrice": 7.79
   },
   {
-    "name": "Bebida Adoçada Uva Del Valle Frut Pet 1 L",
-    "currentPrice": 5.75,
-    "lastPrice": 5.75
+    "name": "Energético Ultra Peachy Keen Pêssego Zero Açúcar Monster 473ml",
+    "currentPrice": 9.29,
+    "lastPrice": 9.29
   },
   {
     "name": "Kit Cerveja Lager Premium Puro Malte Stella Artois 330ml 24 Unidades",
@@ -2680,19 +2660,34 @@
     "lastPrice": 5.19
   },
   {
+    "name": "Bebida Láctea Neston Maçã, Banana e Mamão 280ml",
+    "currentPrice": 7.05,
+    "lastPrice": 7.05
+  },
+  {
+    "name": "Cerveja Budweiser Pilsen 330ml 24 Unidades",
+    "currentPrice": 119.76,
+    "lastPrice": 119.76
+  },
+  {
+    "name": "Bebida Adoçada Uva Del Valle Frut Pet 1 L",
+    "currentPrice": 5.75,
+    "lastPrice": 5.75
+  },
+  {
     "name": "Cerveja Amstel Pilsen Lager 269ml 48 Unidades",
     "currentPrice": 153.12,
     "lastPrice": 153.12
   },
   {
-    "name": "Licor Whisky e Mel Passport Garrafa 670 ml",
-    "currentPrice": 61.49,
-    "lastPrice": 61.49
-  },
-  {
     "name": "Água Mineral sem Gás Minalba 5 Litros",
     "currentPrice": 10.99,
     "lastPrice": 10.99
+  },
+  {
+    "name": "Licor Whisky e Mel Passport Garrafa 670 ml",
+    "currentPrice": 61.49,
+    "lastPrice": 61.49
   },
   {
     "name": "Vinho Fino Branco Seco Pinot Gricio Manto Blanco 750ml",
@@ -2715,6 +2710,11 @@
     "lastPrice": 12.09
   },
   {
+    "name": "Suco de Maça Tial 100% 1L",
+    "currentPrice": 11.49,
+    "lastPrice": 11.49
+  },
+  {
     "name": "Suco Maçã Natural One Ambiente Garrafa 180 ml",
     "currentPrice": 3.99,
     "lastPrice": 3.99
@@ -2725,19 +2725,9 @@
     "lastPrice": 1.29
   },
   {
-    "name": "Suco de Maça Tial 100% 1L",
-    "currentPrice": 11.49,
-    "lastPrice": 11.49
-  },
-  {
     "name": "Bebida Adoçada Laranja Del Valle Frut Pet 1 L",
     "currentPrice": 5.75,
     "lastPrice": 5.75
-  },
-  {
-    "name": "Gatorade Sabor Berry Blue 500ml",
-    "currentPrice": 5.35,
-    "lastPrice": 5.35
   },
   {
     "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Maracujá com Iogurte Frisco Pacote 18g",
@@ -2748,16 +2738,6 @@
     "name": "Café Solúvel Extra Forte Carrefour SC 50g",
     "currentPrice": 4.79,
     "lastPrice": 4.79
-  },
-  {
-    "name": "Energético Monster Khaotic Juice Tropical Monster  473ml",
-    "currentPrice": 9.29,
-    "lastPrice": 9.29
-  },
-  {
-    "name": "Vinho Branco Português Península das Vinhas Ligeiro & Medium Sweet Casa Ermelinda Freitas 750ml",
-    "currentPrice": 41.35,
-    "lastPrice": 41.35
   },
   {
     "name": "Bebida Vegetal Possible Original 1L",
@@ -2775,9 +2755,9 @@
     "lastPrice": 13.99
   },
   {
-    "name": "Bebida Láctea Nescau Pronto 1L",
-    "currentPrice": 15.69,
-    "lastPrice": 15.69
+    "name": "Gatorade Sabor Berry Blue 500ml",
+    "currentPrice": 5.35,
+    "lastPrice": 5.35
   },
   {
     "name": "Bebida Mista Alcoólica Gaseificada Old No. 7 Jack Daniel's e Coca-Cola 350ml",
@@ -2785,14 +2765,24 @@
     "lastPrice": 13.19
   },
   {
+    "name": "Energético Monster Khaotic Juice Tropical Monster  473ml",
+    "currentPrice": 9.29,
+    "lastPrice": 9.29
+  },
+  {
+    "name": "Bebida Láctea Nescau Pronto 1L",
+    "currentPrice": 15.69,
+    "lastPrice": 15.69
+  },
+  {
+    "name": "Vinho Branco Português Península das Vinhas Ligeiro & Medium Sweet Casa Ermelinda Freitas 750ml",
+    "currentPrice": 41.35,
+    "lastPrice": 41.35
+  },
+  {
     "name": "Vinho Tinto Argentino Punta Negra La Parcela Cabernet Sauvingon 750 ml",
     "currentPrice": 28.9,
     "lastPrice": 28.9
-  },
-  {
-    "name": "Vodka Absolut Vanilia - 750 ml",
-    "currentPrice": 116.9,
-    "lastPrice": 116.9
   },
   {
     "name": "Suco de Uva Life Mix Kids 200ml",
@@ -2815,12 +2805,22 @@
     "lastPrice": 9.89
   },
   {
-    "name": "Energético Monster Energy Ultra Paradise Sem Açúcar 473ml",
+    "name": "Energético Líquido à Base de Taurina e Cafeína Juice Suco de Frutas Monster Pipeline Punch 473ml",
     "currentPrice": 9.29,
     "lastPrice": 9.29
   },
   {
-    "name": "Energético Líquido à Base de Taurina e Cafeína Juice Suco de Frutas Monster Pipeline Punch 473ml",
+    "name": "Refresco em pó Tang Abacaxi 18g",
+    "currentPrice": 1.29,
+    "lastPrice": 1.29
+  },
+  {
+    "name": "Refrigerante Pepsi 350ml Lata",
+    "currentPrice": 2.69,
+    "lastPrice": 2.99
+  },
+  {
+    "name": "Energético Monster Energy Ultra Paradise Sem Açúcar 473ml",
     "currentPrice": 9.29,
     "lastPrice": 9.29
   },
@@ -2830,19 +2830,9 @@
     "lastPrice": 5.19
   },
   {
-    "name": "Refresco em pó Tang Abacaxi 18g",
-    "currentPrice": 1.29,
-    "lastPrice": 1.29
-  },
-  {
     "name": "Cerveja Skol Pilsen Lager 350ml 12 Unidades",
     "currentPrice": 45.48,
     "lastPrice": 45.48
-  },
-  {
-    "name": "Refrigerante Pepsi 350ml Lata",
-    "currentPrice": 2.69,
-    "lastPrice": 2.99
   },
   {
     "name": "Vinho Tinto Chileno Montesur Reserva Especial Merlot Garrafa 750ml",
@@ -2870,6 +2860,11 @@
     "lastPrice": 4.49
   },
   {
+    "name": "Água Mineral sem Gás Crystal 500ml - 12 Unidades",
+    "currentPrice": 28.68,
+    "lastPrice": 28.68
+  },
+  {
     "name": "Suco de Frutas Cítricas Del Valle Kapo 200 ml",
     "currentPrice": 2.65,
     "lastPrice": 2.65
@@ -2880,14 +2875,14 @@
     "lastPrice": 2.59
   },
   {
+    "name": "Vodka Absolut Vanilia - 750 ml",
+    "currentPrice": 116.9,
+    "lastPrice": 116.9
+  },
+  {
     "name": "Cerveja Lager Premium Puro Malte Stella Artois Garrafa 330 ml 48 Unidades",
     "currentPrice": 287.52,
     "lastPrice": 287.52
-  },
-  {
-    "name": "Água Mineral sem Gás Crystal 500ml - 12 Unidades",
-    "currentPrice": 28.68,
-    "lastPrice": 28.68
   },
   {
     "name": "Complemento Alimentar Nutren Senior Baunilha 740g",
@@ -2898,11 +2893,6 @@
     "name": "Vinho Tinto Italiano Primitivo Salento Natale Verga Safra 2019 Garrafa 750ml",
     "currentPrice": 40.75,
     "lastPrice": 40.75
-  },
-  {
-    "name": "Água de Coco Sococo 330ml",
-    "currentPrice": 5.99,
-    "lastPrice": 5.99
   },
   {
     "name": "Suco Misto de Uva e Maçã Carrefour Classic 1L",
@@ -2928,6 +2918,11 @@
     "name": "Água Mineral Sem Gás Voss Still Garrafa 375 ml de Vidro",
     "currentPrice": 24.99,
     "lastPrice": 24.99
+  },
+  {
+    "name": "Água de Coco Sococo 330ml",
+    "currentPrice": 5.99,
+    "lastPrice": 5.99
   },
   {
     "name": "Cerveja Original Pale Lager 600ml - 12 Unidades",
@@ -2965,11 +2960,6 @@
     "lastPrice": 79.12
   },
   {
-    "name": "Água Mineral sem Gás Bioleve Garrafa 1,5 Litros",
-    "currentPrice": 2.69,
-    "lastPrice": 2.69
-  },
-  {
     "name": "Vinho Argentino Branco Seco Porteño Norton Chardonnay Mendoza Garrafa 750ml",
     "currentPrice": 45.79,
     "lastPrice": 45.79
@@ -2978,6 +2968,11 @@
     "name": "Chá Verde Lichia Zero Açúcar Yaí 1L",
     "currentPrice": 7.55,
     "lastPrice": 7.55
+  },
+  {
+    "name": "Água Mineral sem Gás Bioleve Garrafa 1,5 Litros",
+    "currentPrice": 2.69,
+    "lastPrice": 2.69
   },
   {
     "name": "Vinho Tinto Novecento Malbec 750ml",
@@ -3020,11 +3015,6 @@
     "lastPrice": 129.9
   },
   {
-    "name": "Vinho Branco de Mesa Seco Classic Carrefour 750 ml",
-    "currentPrice": 15.69,
-    "lastPrice": 15.69
-  },
-  {
     "name": "Néctar Del Valle Manga Caixa 1 L",
     "currentPrice": 8.69,
     "lastPrice": 8.69
@@ -3035,14 +3025,19 @@
     "lastPrice": 2.05
   },
   {
-    "name": "Néctar de Cranberry Juxx 1 litro",
-    "currentPrice": 16.49,
-    "lastPrice": 16.49
-  },
-  {
     "name": "Suco Néctar Goiaba Tial 1 L",
     "currentPrice": 6.89,
     "lastPrice": 6.89
+  },
+  {
+    "name": "Vinho Branco de Mesa Seco Classic Carrefour 750 ml",
+    "currentPrice": 15.69,
+    "lastPrice": 15.69
+  },
+  {
+    "name": "Néctar de Cranberry Juxx 1 litro",
+    "currentPrice": 16.49,
+    "lastPrice": 16.49
   },
   {
     "name": "Vinho Tinto Italiano Natele Verga Barolo Docg Natale Verga 750ml",
@@ -3085,24 +3080,9 @@
     "lastPrice": 75.99
   },
   {
-    "name": "Suco Integral Uva Tinto sem Açúcar Garibaldi 500ml",
-    "currentPrice": 11.75,
-    "lastPrice": 11.75
-  },
-  {
     "name": "Energético Red Bull Cereja e Fruta Silvestres 250ml",
     "currentPrice": 9.89,
     "lastPrice": 9.89
-  },
-  {
-    "name": "Cerveja Spaten Lata Sleek 350 ml 60 Unidades",
-    "currentPrice": 245.4,
-    "lastPrice": 245.4
-  },
-  {
-    "name": "Coca-Cola Café Espresso Plus 220ml - 6 Unidades",
-    "currentPrice": 16.74,
-    "lastPrice": 16.74
   },
   {
     "name": "Suco Gaseificado Integral Uva Aurora 275 ml",
@@ -3115,14 +3095,24 @@
     "lastPrice": 49.99
   },
   {
-    "name": "Licor Amarula 750 ml",
-    "currentPrice": 149.9,
-    "lastPrice": 149.9
+    "name": "Cerveja Spaten Lata Sleek 350 ml 60 Unidades",
+    "currentPrice": 245.4,
+    "lastPrice": 245.4
   },
   {
     "name": "Whisky Johnnie Walker Black Label 12 Anos 1 Litro - 2 Unidades",
     "currentPrice": 419.8,
     "lastPrice": 419.8
+  },
+  {
+    "name": "Coca-Cola Café Espresso Plus 220ml - 6 Unidades",
+    "currentPrice": 16.74,
+    "lastPrice": 16.74
+  },
+  {
+    "name": "Licor Amarula 750 ml",
+    "currentPrice": 149.9,
+    "lastPrice": 149.9
   },
   {
     "name": "Café Solúvel em Pó Espresso L'or Sachê 40 g",
@@ -3140,19 +3130,9 @@
     "lastPrice": 0.75
   },
   {
-    "name": "Bebida Láctea UHT Sabor Coco com Batata Doce Zero Lactose Itambé Whey 250ml",
-    "currentPrice": 5.49,
-    "lastPrice": 5.49
-  },
-  {
     "name": "Vinho Argentino Rosé Seco Reserve Trivento Malbec Mendoza Garrafa 750 ml",
     "currentPrice": 66.25,
     "lastPrice": 66.25
-  },
-  {
-    "name": "Bebida de Fruta Sabor Maçã Del Valle Kapo 200 ml",
-    "currentPrice": 2.65,
-    "lastPrice": 2.65
   },
   {
     "name": "Bebida Vegetal Natures Heart Aveia 1L",
@@ -3160,19 +3140,39 @@
     "lastPrice": 17.99
   },
   {
+    "name": "Suco Integral Uva Tinto sem Açúcar Garibaldi 500ml",
+    "currentPrice": 11.75,
+    "lastPrice": 11.75
+  },
+  {
     "name": "Vinho Tinto 120 Colección Independencia Carménère Santa Rita 750ml",
     "currentPrice": 40.9,
     "lastPrice": 40.9
   },
   {
-    "name": "Fanta Maracujá 350ml",
-    "currentPrice": 3.59,
-    "lastPrice": 3.59
+    "name": "Bebida Láctea UHT Sabor Coco com Batata Doce Zero Lactose Itambé Whey 250ml",
+    "currentPrice": 5.49,
+    "lastPrice": 5.49
   },
   {
     "name": "Cerveja Budweiser Pilsen 330ml - 6 Unidades",
     "currentPrice": 29.94,
     "lastPrice": 29.94
+  },
+  {
+    "name": "Licor de Amarula Vegan Garrafa 750ml",
+    "currentPrice": 152.95,
+    "lastPrice": 152.95
+  },
+  {
+    "name": "Bebida de Fruta Sabor Maçã Del Valle Kapo 200 ml",
+    "currentPrice": 2.65,
+    "lastPrice": 2.65
+  },
+  {
+    "name": "Fanta Maracujá 350ml",
+    "currentPrice": 3.59,
+    "lastPrice": 3.59
   },
   {
     "name": "Coca-Cola Sem Açúcar 1 Litro - 6 Unidades",
@@ -3183,11 +3183,6 @@
     "name": "Refrigerante Guaraná Antarctica 2L Garrafa Pet Pack C/6",
     "currentPrice": 56.34,
     "lastPrice": 56.34
-  },
-  {
-    "name": "Licor de Amarula Vegan Garrafa 750ml",
-    "currentPrice": 152.95,
-    "lastPrice": 152.95
   },
   {
     "name": "Suco Nectar Yummy Uva Maca Tp 200 ml",
@@ -3290,11 +3285,6 @@
     "lastPrice": 49.99
   },
   {
-    "name": "Refresco em pó Tang Guaraná 18g",
-    "currentPrice": 1.29,
-    "lastPrice": 1.29
-  },
-  {
     "name": "Vinho Tinto Manto Blanco Reserva Pinot Noir 750ml",
     "currentPrice": 42.75,
     "lastPrice": 49.89
@@ -3305,19 +3295,19 @@
     "lastPrice": 1.19
   },
   {
-    "name": "Guaraviton Açaí 500ml",
-    "currentPrice": 2.89,
-    "lastPrice": 2.89
-  },
-  {
     "name": "Espumante Terroir Du Monde Moscatel Branco 750ml",
     "currentPrice": 32.9,
     "lastPrice": 32.9
   },
   {
-    "name": "Suco de Citrus Del Valle Frut 1,5 Litro",
-    "currentPrice": 6.19,
-    "lastPrice": 10.39
+    "name": "Guaraviton Açaí 500ml",
+    "currentPrice": 2.89,
+    "lastPrice": 2.89
+  },
+  {
+    "name": "Refresco em pó Tang Guaraná 18g",
+    "currentPrice": 1.29,
+    "lastPrice": 1.29
   },
   {
     "name": "Cerveja Budweiser Pilsen 330ml 12 unidades",
@@ -3333,6 +3323,11 @@
     "name": "Vinho Branco Suave Aurora 2016 Malvasia Meia Garrafa 500ml",
     "currentPrice": 24.9,
     "lastPrice": 24.9
+  },
+  {
+    "name": "Suco de Citrus Del Valle Frut 1,5 Litro",
+    "currentPrice": 6.19,
+    "lastPrice": 10.39
   },
   {
     "name": "Achocolatado em Pó Italac 1,01 Kg",
@@ -3580,19 +3575,14 @@
     "lastPrice": 6.19
   },
   {
-    "name": "Bebida Láctea UHT Sabor Baunilha Zero Lactose Itambé Whey 250ml",
-    "currentPrice": 5.65,
-    "lastPrice": 5.65
-  },
-  {
-    "name": "Cerveja Itaipava Lager 350ml 12 Unidades",
-    "currentPrice": 33.48,
-    "lastPrice": 33.48
-  },
-  {
     "name": "Vinho Branco Seco Pardal Telhado 2019 750 ml",
     "currentPrice": 36.9,
     "lastPrice": 36.9
+  },
+  {
+    "name": "Bebida Láctea UHT Sabor Baunilha Zero Lactose Itambé Whey 250ml",
+    "currentPrice": 5.65,
+    "lastPrice": 5.65
   },
   {
     "name": "Conhaque Domeq Nacional 1 L",
@@ -3618,6 +3608,11 @@
     "name": "Bebida Mista Caju Natural One Ambiente Garrafa 900 ml",
     "currentPrice": 17.9,
     "lastPrice": 17.9
+  },
+  {
+    "name": "Cerveja Itaipava Lager 350ml 12 Unidades",
+    "currentPrice": 33.48,
+    "lastPrice": 33.48
   },
   {
     "name": "Cha Misto Leao Leaozinho Morango Maracuja 23 g 10 Saches",
@@ -3660,24 +3655,9 @@
     "lastPrice": 329.8
   },
   {
-    "name": "Vermute Martini Rosso 750ml",
-    "currentPrice": 47.59,
-    "lastPrice": 47.59
-  },
-  {
     "name": "Suco de Uva Natural One Special Blend 900ml",
     "currentPrice": 18.9,
     "lastPrice": 18.9
-  },
-  {
-    "name": "Isotônico Gatorade Tangerina Garrafa 500ML",
-    "currentPrice": 5.29,
-    "lastPrice": 5.29
-  },
-  {
-    "name": "Néctar Sabor Maracujá Carrefour Classic 1L",
-    "currentPrice": 5.19,
-    "lastPrice": 5.19
   },
   {
     "name": "Refresco em Pó Sabor Laranja Carrefour 20g",
@@ -3685,9 +3665,9 @@
     "lastPrice": 0.75
   },
   {
-    "name": "Suco Néctar Del Valle Uva 290 ml",
-    "currentPrice": 4.99,
-    "lastPrice": 4.99
+    "name": "Isotônico Gatorade Tangerina Garrafa 500ML",
+    "currentPrice": 5.29,
+    "lastPrice": 5.29
   },
   {
     "name": "Vinho Tinto Concha y Toro Reservado Malbec 750ml",
@@ -3700,11 +3680,6 @@
     "lastPrice": 23.9
   },
   {
-    "name": "Néctar Sabor Maracujá Carrefour Classic 200m",
-    "currentPrice": 2.15,
-    "lastPrice": 2.15
-  },
-  {
     "name": "Vinho Tinto Quatro ventos Douro 2021",
     "currentPrice": 44.9,
     "lastPrice": 44.9
@@ -3713,6 +3688,26 @@
     "name": "Néctar Uva Maratá Caixa 200 ml",
     "currentPrice": 1.99,
     "lastPrice": 1.99
+  },
+  {
+    "name": "Suco Néctar Del Valle Uva 290 ml",
+    "currentPrice": 4.99,
+    "lastPrice": 4.99
+  },
+  {
+    "name": "Néctar Sabor Maracujá Carrefour Classic 1L",
+    "currentPrice": 5.19,
+    "lastPrice": 5.19
+  },
+  {
+    "name": "Néctar Sabor Maracujá Carrefour Classic 200m",
+    "currentPrice": 2.15,
+    "lastPrice": 2.15
+  },
+  {
+    "name": "Vermute Martini Rosso 750ml",
+    "currentPrice": 47.59,
+    "lastPrice": 47.59
   },
   {
     "name": "Cerveja Goose Island Midway 355ml Long Neck",
@@ -3745,11 +3740,6 @@
     "lastPrice": 5.9
   },
   {
-    "name": "Kit Whisky Johnnie Walker Red Label 750ml com 2 unidades",
-    "currentPrice": 165.8,
-    "lastPrice": 165.8
-  },
-  {
     "name": "Gin Doce Strawberry Intencion Garrafa 900 ml",
     "currentPrice": 26.89,
     "lastPrice": 26.89
@@ -3763,11 +3753,6 @@
     "name": "Suco de Manga Maguary 500ml",
     "currentPrice": 7.19,
     "lastPrice": 8.99
-  },
-  {
-    "name": "Bebida Vegetal A Tal da Castanha Mixed Nuts 1L",
-    "currentPrice": 23.99,
-    "lastPrice": 23.99
   },
   {
     "name": "Vodka Polonesa Wyborowa Premium 750 ml",
@@ -3790,19 +3775,9 @@
     "lastPrice": 5.19
   },
   {
-    "name": "Kit Cerveja Spaten Lata Sleek 350 ml 24 Unidades",
-    "currentPrice": 98.16,
-    "lastPrice": 98.16
-  },
-  {
     "name": "Cerveja Colorado Cauim 600ml Garrafa",
     "currentPrice": 14.65,
     "lastPrice": 14.65
-  },
-  {
-    "name": "Isotônico Sabor Laranja Powerade Frasco 500ml",
-    "currentPrice": 4.79,
-    "lastPrice": 4.79
   },
   {
     "name": "Néctar Misto Sabor Laranja com Acerola Carrefour Classic 1L",
@@ -3810,9 +3785,29 @@
     "lastPrice": 5.19
   },
   {
+    "name": "Bebida Vegetal A Tal da Castanha Mixed Nuts 1L",
+    "currentPrice": 23.99,
+    "lastPrice": 23.99
+  },
+  {
     "name": "Cerveja Budweiser Pilsen Lager 269ml 16 Unidades",
     "currentPrice": 51.04,
     "lastPrice": 51.04
+  },
+  {
+    "name": "Kit Cerveja Spaten Lata Sleek 350 ml 24 Unidades",
+    "currentPrice": 98.16,
+    "lastPrice": 98.16
+  },
+  {
+    "name": "Isotônico Sabor Laranja Powerade Frasco 500ml",
+    "currentPrice": 4.79,
+    "lastPrice": 4.79
+  },
+  {
+    "name": "Kit Whisky Johnnie Walker Red Label 750ml com 2 unidades",
+    "currentPrice": 165.8,
+    "lastPrice": 165.8
   },
   {
     "name": "Fórmula Infantil Aptanutri Profutura Lata 800 g",
@@ -3885,11 +3880,6 @@
     "lastPrice": 7.89
   },
   {
-    "name": "Refresco em pó Tang Goiaba 18g",
-    "currentPrice": 1.29,
-    "lastPrice": 1.29
-  },
-  {
     "name": "Refresco em Pó Sabor Limão Carrefour 20g",
     "currentPrice": 0.75,
     "lastPrice": 0.75
@@ -3928,6 +3918,11 @@
     "name": "Drink Pronto Beats Caipirinha 269ml Long Neck",
     "currentPrice": 7.79,
     "lastPrice": 7.79
+  },
+  {
+    "name": "Refresco em pó Tang Goiaba 18g",
+    "currentPrice": 1.29,
+    "lastPrice": 1.29
   },
   {
     "name": "Gin London Dry Intencion Garrafa 900 ml",
@@ -3995,11 +3990,6 @@
     "lastPrice": 7.99
   },
   {
-    "name": "Suco Integral Uva Tinto Aurora 1,5 Litros",
-    "currentPrice": 25.15,
-    "lastPrice": 25.15
-  },
-  {
     "name": "Néctar Sabor Manga Carrefour Classic 200ml",
     "currentPrice": 2.15,
     "lastPrice": 2.15
@@ -4013,11 +4003,6 @@
     "name": "Energético Monster Energy Dragon Ice Tea Lemon 473ml",
     "currentPrice": 9.29,
     "lastPrice": 9.29
-  },
-  {
-    "name": "Bebida Mista Alcoólica Beats Tropical 269ml",
-    "currentPrice": 7.79,
-    "lastPrice": 7.79
   },
   {
     "name": "Suco Misto de Laranja e Maçã Carrefour Classic 1,5L",
@@ -4035,11 +4020,6 @@
     "lastPrice": 58.29
   },
   {
-    "name": "Cachaça Ypióca Empalhada Ouro 965ml",
-    "currentPrice": 59.9,
-    "lastPrice": 59.9
-  },
-  {
     "name": "Suco de Uva Integral Garibaldi 300ml",
     "currentPrice": 8.99,
     "lastPrice": 8.99
@@ -4050,9 +4030,24 @@
     "lastPrice": 11.99
   },
   {
+    "name": "Energético Baly Frutas Tropicais com 473 ml",
+    "currentPrice": 6.15,
+    "lastPrice": 6.15
+  },
+  {
+    "name": "Suco Integral Uva Tinto Aurora 1,5 Litros",
+    "currentPrice": 25.15,
+    "lastPrice": 25.15
+  },
+  {
     "name": "Refresco em pó Tang Laranja Mamão 18g",
     "currentPrice": 1.29,
     "lastPrice": 1.29
+  },
+  {
+    "name": "Cachaça Ypióca Empalhada Ouro 965ml",
+    "currentPrice": 59.9,
+    "lastPrice": 59.9
   },
   {
     "name": "Refrigerante Fanta Guaraná 350ML",
@@ -4063,6 +4058,16 @@
     "name": "Suco de Uva Natural One Special Blend 300ml",
     "currentPrice": 6.99,
     "lastPrice": 6.99
+  },
+  {
+    "name": "Bebida Mista Alcoólica Beats Tropical 269ml",
+    "currentPrice": 7.79,
+    "lastPrice": 7.79
+  },
+  {
+    "name": "Suco Concentrado Manga Da Fruta 500 ml",
+    "currentPrice": 6.39,
+    "lastPrice": 7.99
   },
   {
     "name": "Bebida Láctea Batida com Açúcar e Mel Carrefour Classic 800ml",
@@ -4078,11 +4083,6 @@
     "name": "Cerveja Colorado Vixnu 600ml Garrafa",
     "currentPrice": 14.49,
     "lastPrice": 14.49
-  },
-  {
-    "name": "Energético Baly Frutas Tropicais com 473 ml",
-    "currentPrice": 6.15,
-    "lastPrice": 6.15
   },
   {
     "name": "Vinho Branco Seco Sauvignon Blanc Santa Carolina 750 ml",
@@ -4180,19 +4180,9 @@
     "lastPrice": 23.99
   },
   {
-    "name": "Energético Baly Tropical Zero Açúcar 473ml",
-    "currentPrice": 5.99,
-    "lastPrice": 5.99
-  },
-  {
     "name": "Água Mineral Natural sem Gás Prata Garrafa 510ml",
     "currentPrice": 4.79,
     "lastPrice": 4.79
-  },
-  {
-    "name": "Energético Monster Energy 473ml - 6 Unidades",
-    "currentPrice": 55.74,
-    "lastPrice": 55.74
   },
   {
     "name": "Água de Coco Sabor Maracujá Sococo Mais 200ml",
@@ -4203,6 +4193,16 @@
     "name": "Refresco de Abacaxi Del Valle Kapo 200ml",
     "currentPrice": 2.65,
     "lastPrice": 2.65
+  },
+  {
+    "name": "Energético Monster Energy 473ml - 6 Unidades",
+    "currentPrice": 55.74,
+    "lastPrice": 55.74
+  },
+  {
+    "name": "Energético Baly Tropical Zero Açúcar 473ml",
+    "currentPrice": 5.99,
+    "lastPrice": 5.99
   },
   {
     "name": "Vinho Branco Seco Chileno Casa Crebar Sauvignon Blanc Reserva 750 ml",
@@ -4295,11 +4295,6 @@
     "lastPrice": 2.35
   },
   {
-    "name": "Suco Néctar Del Valle Pêssego 290 ml",
-    "currentPrice": 4.39,
-    "lastPrice": 4.39
-  },
-  {
     "name": "Isotônico Sabor Limão Powerade 500ml",
     "currentPrice": 4.79,
     "lastPrice": 4.79
@@ -4315,6 +4310,16 @@
     "lastPrice": 1.25
   },
   {
+    "name": "Néctar Laranja Maratá Caixa 200 ml",
+    "currentPrice": 2.19,
+    "lastPrice": 2.19
+  },
+  {
+    "name": "Suco Néctar Del Valle Pêssego 290 ml",
+    "currentPrice": 4.39,
+    "lastPrice": 4.39
+  },
+  {
     "name": "Refrigerante h2oh limão 500ml Garrafa Pack C/12",
     "currentPrice": 43.08,
     "lastPrice": 43.08
@@ -4323,11 +4328,6 @@
     "name": "Suco Nectar de Goiaba Del Valle 290 ml",
     "currentPrice": 4.99,
     "lastPrice": 4.99
-  },
-  {
-    "name": "Néctar Laranja Maratá Caixa 200 ml",
-    "currentPrice": 2.19,
-    "lastPrice": 2.19
   },
   {
     "name": "Cerveja Baden Baden Witbier Garrafa 600 ml",
@@ -4385,11 +4385,6 @@
     "lastPrice": 4.79
   },
   {
-    "name": "Bebida Láctea Cappuccino 3 Corações Power Whey 15g 260ml",
-    "currentPrice": 8.99,
-    "lastPrice": 8.99
-  },
-  {
     "name": "Espumante Rosé Salton Moscato Com 750ml",
     "currentPrice": 39.9,
     "lastPrice": 39.9
@@ -4433,6 +4428,11 @@
     "name": "Vinho Tinto Italiano Casa Dei Fanti Winemaker's Collection Primitivo Puglia 750 ml",
     "currentPrice": 109.99,
     "lastPrice": 109.99
+  },
+  {
+    "name": "Bebida Láctea Cappuccino 3 Corações Power Whey 15g 260ml",
+    "currentPrice": 8.99,
+    "lastPrice": 8.99
   },
   {
     "name": "Vinho Verde Português Loureiro Dabarca - 750 ml",
@@ -4535,11 +4535,6 @@
     "lastPrice": 16.69
   },
   {
-    "name": "Fanta Uva Lata 220 ml",
-    "currentPrice": 2.35,
-    "lastPrice": 2.35
-  },
-  {
     "name": "15 Cervejas Skol Pilsen Lager 269ml + 1 Linguiça Toscana com Pimenta Biquinho Perdigão Na Brasa 600g",
     "currentPrice": 68.35,
     "lastPrice": 68.35
@@ -4553,6 +4548,11 @@
     "name": "Vinho Tinto Argentino Puente Sur Malbec Garrafa 750ml",
     "currentPrice": 39.99,
     "lastPrice": 39.99
+  },
+  {
+    "name": "Fanta Uva Lata 220 ml",
+    "currentPrice": 2.35,
+    "lastPrice": 2.35
   },
   {
     "name": "Kit Bebida Láctea UHT Chocolate Pirakids 200 ml 12 Unidades",
@@ -4650,11 +4650,6 @@
     "lastPrice": 34.9
   },
   {
-    "name": "Água Mineral com Gás Smartwater 591 ml",
-    "currentPrice": 5.39,
-    "lastPrice": 5.39
-  },
-  {
     "name": "Vinho Tinto Integral de Mesa Seco Classic Carrefour 750 ml",
     "currentPrice": 15.69,
     "lastPrice": 15.69
@@ -4685,9 +4680,9 @@
     "lastPrice": 32.99
   },
   {
-    "name": "Gin Dry Theros 1 L",
-    "currentPrice": 34.29,
-    "lastPrice": 34.29
+    "name": "Água Mineral com Gás Smartwater 591 ml",
+    "currentPrice": 5.39,
+    "lastPrice": 5.39
   },
   {
     "name": "Água Mineral sem Gás Bioleve 510ml",
@@ -4695,14 +4690,19 @@
     "lastPrice": 1.99
   },
   {
+    "name": "Néctar de Laranja Maguary 200ml",
+    "currentPrice": 2.79,
+    "lastPrice": 2.79
+  },
+  {
     "name": "Chá Verde Jabuticaba Zero Açúcar Yaí 1L",
     "currentPrice": 7.55,
     "lastPrice": 7.55
   },
   {
-    "name": "Néctar de Laranja Maguary 200ml",
-    "currentPrice": 2.79,
-    "lastPrice": 2.79
+    "name": "Gin Dry Theros 1 L",
+    "currentPrice": 34.29,
+    "lastPrice": 34.29
   },
   {
     "name": "Cerveja Patagonia Amber Lager 740ml Garrafa",
@@ -4765,11 +4765,6 @@
     "lastPrice": 46.99
   },
   {
-    "name": "Bebida Laranja Life Mix Caixa 1 L",
-    "currentPrice": 10.99,
-    "lastPrice": 10.99
-  },
-  {
     "name": "Suco Nectar Yummy Maracuja Tp 1 l",
     "currentPrice": 4.99,
     "lastPrice": 4.99
@@ -4815,11 +4810,6 @@
     "lastPrice": 79.9
   },
   {
-    "name": "Bebida Láctea UHT Zero Lactose Parmalat Wheyfit Sabor Chocolate 250ml",
-    "currentPrice": 6.99,
-    "lastPrice": 6.99
-  },
-  {
     "name": "Vinho Tinto Português  Reguengos Trincadeira Aragonez Castelão Alentejo 750 ml",
     "currentPrice": 71.99,
     "lastPrice": 71.99
@@ -4830,19 +4820,9 @@
     "lastPrice": 149.9
   },
   {
-    "name": "Néctar Maracujá Del Valle Lata 290 ml",
-    "currentPrice": 4.09,
-    "lastPrice": 4.09
-  },
-  {
     "name": "Energético Red Bull Energy Drink, Melancia Edition, 250 ml (24 latas)",
     "currentPrice": 237.36,
     "lastPrice": 237.36
-  },
-  {
-    "name": "Bebida Adoçada Uva Del Valle Frut Pet 450 ml",
-    "currentPrice": 3.49,
-    "lastPrice": 3.49
   },
   {
     "name": "Vinho Tinto Almadén Cabernet Sauvignon 750ml",
@@ -4865,6 +4845,11 @@
     "lastPrice": 49.89
   },
   {
+    "name": "Bebida Láctea UHT Zero Lactose Parmalat Wheyfit Sabor Chocolate 250ml",
+    "currentPrice": 6.99,
+    "lastPrice": 6.99
+  },
+  {
     "name": "Fanta Guaraná Pet 2L + Linguiça Toscana com Alho e Ervas Perdigão Na Brasa 600g",
     "currentPrice": 35.78,
     "lastPrice": 35.78
@@ -4873,6 +4858,21 @@
     "name": "Néctar de Maracujá Maratá Caixa 200 ml",
     "currentPrice": 2.19,
     "lastPrice": 2.19
+  },
+  {
+    "name": "Bebida Adoçada Uva Del Valle Frut Pet 450 ml",
+    "currentPrice": 3.49,
+    "lastPrice": 3.49
+  },
+  {
+    "name": "Néctar Maracujá Del Valle Lata 290 ml",
+    "currentPrice": 4.09,
+    "lastPrice": 4.09
+  },
+  {
+    "name": "Bebida Laranja Life Mix Caixa 1 L",
+    "currentPrice": 10.99,
+    "lastPrice": 10.99
   },
   {
     "name": "Refrigerante Laranja-Pera FYs Lata 350ml",
@@ -4913,11 +4913,6 @@
     "name": "Chá Verde Funcional Sabor Limão Life Mix Boa Forma 1 Litro",
     "currentPrice": 9.69,
     "lastPrice": 9.69
-  },
-  {
-    "name": "Suco Nectar Yummy Maracuja Tp 200 ml",
-    "currentPrice": 1.99,
-    "lastPrice": 1.99
   },
   {
     "name": "Saquê Licoroso Mirin Kenko 500ml",
@@ -4965,11 +4960,6 @@
     "lastPrice": 42.99
   },
   {
-    "name": "Refrigerante Kuat Guaraná 350ML",
-    "currentPrice": 3.29,
-    "lastPrice": 3.29
-  },
-  {
     "name": "Energético De Morango e Pêssego Baly 473ml",
     "currentPrice": 6.15,
     "lastPrice": 6.15
@@ -4985,9 +4975,34 @@
     "lastPrice": 3.99
   },
   {
+    "name": "Refrigerante Kuat Guaraná 350ML",
+    "currentPrice": 3.29,
+    "lastPrice": 3.29
+  },
+  {
     "name": "Bebida Frutas Cítricas Del Valle Frut Garrafa 450 ml",
     "currentPrice": 2.99,
     "lastPrice": 2.99
+  },
+  {
+    "name": "Suco Nectar Yummy Maracuja Tp 200 ml",
+    "currentPrice": 1.99,
+    "lastPrice": 1.99
+  },
+  {
+    "name": "Vinho Branco Suave Saint Germain Moscato 750ml",
+    "currentPrice": 23.9,
+    "lastPrice": 23.9
+  },
+  {
+    "name": "Kit Whisky Johnnie Walker Gold Reserve 750ml com 2 unidades",
+    "currentPrice": 639.8,
+    "lastPrice": 639.8
+  },
+  {
+    "name": "Kit Whisky Escocês Chivas Regal 12 anos 1litro com 2 unidades",
+    "currentPrice": 349.8,
+    "lastPrice": 349.8
   },
   {
     "name": "Energético Sem Açúcar Red Bull Energy Drink Sugarfree, 250 ml (24 latas)",
@@ -4998,16 +5013,6 @@
     "name": "Kit 4 Coca-Cola Zero Lata 350ml + 4 Sprite Zero Lata 350ml",
     "currentPrice": 29.92,
     "lastPrice": 29.92
-  },
-  {
-    "name": "Vinho Branco Suave Saint Germain Moscato 750ml",
-    "currentPrice": 23.9,
-    "lastPrice": 23.9
-  },
-  {
-    "name": "Kit Whisky Escocês Chivas Regal 12 anos 1litro com 2 unidades",
-    "currentPrice": 349.8,
-    "lastPrice": 349.8
   },
   {
     "name": "Energético Sem Açúcar Red Bull Energy Drink Sugarfree, 250 ml (4 latas)",
@@ -5033,11 +5038,6 @@
     "name": "Vodka Salton Vorus 1 L",
     "currentPrice": 25.99,
     "lastPrice": 25.99
-  },
-  {
-    "name": "Kit Whisky Johnnie Walker Gold Reserve 750ml com 2 unidades",
-    "currentPrice": 639.8,
-    "lastPrice": 639.8
   },
   {
     "name": "Alimento à Base de Soro de Leite Permeado de Leite e Açúcar Colônia Holandesa Chocolade 200ml",
@@ -5115,11 +5115,6 @@
     "lastPrice": 5.19
   },
   {
-    "name": "Chá Real Erva Doce Com 10g",
-    "currentPrice": 5.19,
-    "lastPrice": 5.19
-  },
-  {
     "name": "Conhaque Presidente 970 ml",
     "currentPrice": 14.99,
     "lastPrice": 17.49
@@ -5145,16 +5140,6 @@
     "lastPrice": 169.8
   },
   {
-    "name": "Bebida Frutas Cítricas Del Valle Frut 1,5 Litros",
-    "currentPrice": 7.39,
-    "lastPrice": 7.39
-  },
-  {
-    "name": "Vinho Tinto Santa Carolina Reservado Merlot 750 ml",
-    "currentPrice": 39.89,
-    "lastPrice": 39.89
-  },
-  {
     "name": "Chá Verde Limão Leão Pet 450 ml",
     "currentPrice": 4.59,
     "lastPrice": 4.59
@@ -5175,9 +5160,24 @@
     "lastPrice": 10.99
   },
   {
+    "name": "Chá Real Erva Doce Com 10g",
+    "currentPrice": 5.19,
+    "lastPrice": 5.19
+  },
+  {
     "name": "Cerveja Therezópolis Puro Malte Gold Lager Lata 350ml",
     "currentPrice": 4.29,
     "lastPrice": 4.29
+  },
+  {
+    "name": "Bebida Frutas Cítricas Del Valle Frut 1,5 Litros",
+    "currentPrice": 7.39,
+    "lastPrice": 7.39
+  },
+  {
+    "name": "Vinho Tinto Santa Carolina Reservado Merlot 750 ml",
+    "currentPrice": 39.89,
+    "lastPrice": 39.89
   },
   {
     "name": "Rum Brasileiro Flavored Big Apple Bacardi Garrafa 980 ml",
@@ -5235,11 +5235,6 @@
     "lastPrice": 4.09
   },
   {
-    "name": "Bebida Adoçada Uva Imunomix Os Aventureiros Caixa 200 ml",
-    "currentPrice": 2.89,
-    "lastPrice": 2.89
-  },
-  {
     "name": "Cachaça 51 Ouro 965 ml",
     "currentPrice": 24.99,
     "lastPrice": 24.99
@@ -5290,11 +5285,6 @@
     "lastPrice": 39.9
   },
   {
-    "name": "Chá Cápsula 3 Corações Hibisco e Maçã 30G 10 Unidades",
-    "currentPrice": 22.99,
-    "lastPrice": 22.99
-  },
-  {
     "name": "Vinho Tinto 8KM Merlot 750 ml",
     "currentPrice": 39.9,
     "lastPrice": 39.9
@@ -5325,11 +5315,6 @@
     "lastPrice": 23.9
   },
   {
-    "name": "15 Cervejas Skol Pilsen Lager 269ml + 1 Linguiça de Frango com Bacon Perdigão Na Brasa 600g",
-    "currentPrice": 68.35,
-    "lastPrice": 68.35
-  },
-  {
     "name": "Saquê Seco Ryuujin Garrafa 745 ml",
     "currentPrice": 47.99,
     "lastPrice": 47.99
@@ -5345,6 +5330,11 @@
     "lastPrice": 4.99
   },
   {
+    "name": "Cachaça 51 Seleção Garrafa 965 ml",
+    "currentPrice": 22.99,
+    "lastPrice": 22.99
+  },
+  {
     "name": "Gin Gordon's Sicilian Lemon 700ml",
     "currentPrice": 79.9,
     "lastPrice": 79.9
@@ -5353,6 +5343,21 @@
     "name": "3 Lasanhas Presunto e Queijo Sadia 600 g e 3 Guaranás Antarctica 1 L com 20% de Desconto",
     "currentPrice": 56.64,
     "lastPrice": 56.64
+  },
+  {
+    "name": "Chá Cápsula 3 Corações Hibisco e Maçã 30G 10 Unidades",
+    "currentPrice": 22.99,
+    "lastPrice": 22.99
+  },
+  {
+    "name": "Bebida Adoçada Uva Imunomix Os Aventureiros Caixa 200 ml",
+    "currentPrice": 2.89,
+    "lastPrice": 2.89
+  },
+  {
+    "name": "15 Cervejas Skol Pilsen Lager 269ml + 1 Linguiça de Frango com Bacon Perdigão Na Brasa 600g",
+    "currentPrice": 68.35,
+    "lastPrice": 68.35
   },
   {
     "name": "Refrigerante Limão Limão Bioleve Zero Garrafa 1,5 L",
@@ -5365,9 +5370,9 @@
     "lastPrice": 23.9
   },
   {
-    "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Caju Frisco Pacote 18g",
-    "currentPrice": 1.19,
-    "lastPrice": 1.19
+    "name": "Suco De Goiaba Dafruta Com 200ml",
+    "currentPrice": 1.99,
+    "lastPrice": 1.99
   },
   {
     "name": "Água Mineral Com Gás Lindoya Verão 510ml",
@@ -5385,14 +5390,14 @@
     "lastPrice": 10.99
   },
   {
-    "name": "Suco De Goiaba Dafruta Com 200ml",
-    "currentPrice": 1.99,
-    "lastPrice": 1.99
+    "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Caju Frisco Pacote 18g",
+    "currentPrice": 1.19,
+    "lastPrice": 1.19
   },
   {
-    "name": "Cachaça 51 Seleção Garrafa 965 ml",
-    "currentPrice": 22.99,
-    "lastPrice": 22.99
+    "name": "Suco Integral Natural One Pessego Pet 900 ml",
+    "currentPrice": 17.9,
+    "lastPrice": 17.9
   },
   {
     "name": "Vinho Tinto Suave Santa Colheita 750 ml",
@@ -5550,11 +5555,6 @@
     "lastPrice": 46.99
   },
   {
-    "name": "Aperitivo Cynar 900ml",
-    "currentPrice": 29.39,
-    "lastPrice": 29.39
-  },
-  {
     "name": "Cerveja Praya Lager 355ml",
     "currentPrice": 6.99,
     "lastPrice": 6.99
@@ -5570,16 +5570,6 @@
     "lastPrice": 718.8
   },
   {
-    "name": "Whisky Johnnie Walker Black Label 750 ml + 6 Tônicas Schweppes Citrus sem Açúcar Lata 350 ml",
-    "currentPrice": 249.7,
-    "lastPrice": 249.7
-  },
-  {
-    "name": "Bebida Láctea Cappuccino Chocolate 3 Corações 260ml",
-    "currentPrice": 7.99,
-    "lastPrice": 7.99
-  },
-  {
     "name": "Cappuccino Chocolate Carrefour PT 200g",
     "currentPrice": 10.49,
     "lastPrice": 10.49
@@ -5588,11 +5578,6 @@
     "name": "Vinho Tinto Acquasantiera Assemblage Tannat Merlot Cabernet Sauvignon 750 ml",
     "currentPrice": 32.9,
     "lastPrice": 32.9
-  },
-  {
-    "name": "Compre Lasanha Bolonhesa Sadia 600 g + 1 Real Leve 1 Guaraná Antarctica 1 L",
-    "currentPrice": 18.88,
-    "lastPrice": 18.88
   },
   {
     "name": "Suco Tial Maçã sem Adição de Açúcar 200 ml",
@@ -5610,6 +5595,11 @@
     "lastPrice": 4.99
   },
   {
+    "name": "Aperitivo Cynar 900ml",
+    "currentPrice": 29.39,
+    "lastPrice": 29.39
+  },
+  {
     "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Uva Frisco Pacote 18g",
     "currentPrice": 1.19,
     "lastPrice": 1.19
@@ -5618,11 +5608,6 @@
     "name": "Suco de Maçã Carrefour Classic 1,5L",
     "currentPrice": 20.49,
     "lastPrice": 20.49
-  },
-  {
-    "name": "Kit Refrigerante Guaraná Antarctica 2L + Pipoca Cobertura Caramelo 100g + Pipoca Cinema Manteiga 110g Yoki",
-    "currentPrice": 15.23,
-    "lastPrice": 15.23
   },
   {
     "name": "Energético Red Bull Energy Drink, Tropical Edition, 250 ml (4 latas)",
@@ -5635,9 +5620,9 @@
     "lastPrice": 10.49
   },
   {
-    "name": "Kit Gin Gordons Pink 700 ml + 2 Águas Tônica Antarctica Zero Açúcar 1 L",
-    "currentPrice": 95.28,
-    "lastPrice": 95.28
+    "name": "Whisky Johnnie Walker Black Label 750 ml + 6 Tônicas Schweppes Citrus sem Açúcar Lata 350 ml",
+    "currentPrice": 249.7,
+    "lastPrice": 249.7
   },
   {
     "name": "Xarope Concentrado Sabor Groselha Tropical 1 Litro",
@@ -5645,9 +5630,24 @@
     "lastPrice": 12.39
   },
   {
-    "name": "Suco Integral Natural One Pessego Pet 900 ml",
-    "currentPrice": 17.9,
-    "lastPrice": 17.9
+    "name": "Compre Lasanha Bolonhesa Sadia 600 g + 1 Real Leve 1 Guaraná Antarctica 1 L",
+    "currentPrice": 18.88,
+    "lastPrice": 18.88
+  },
+  {
+    "name": "Kit Refrigerante Guaraná Antarctica 2L + Pipoca Cobertura Caramelo 100g + Pipoca Cinema Manteiga 110g Yoki",
+    "currentPrice": 15.23,
+    "lastPrice": 15.23
+  },
+  {
+    "name": "Kit Gin Gordons Pink 700 ml + 2 Águas Tônica Antarctica Zero Açúcar 1 L",
+    "currentPrice": 95.28,
+    "lastPrice": 95.28
+  },
+  {
+    "name": "Bebida Láctea Cappuccino Chocolate 3 Corações 260ml",
+    "currentPrice": 7.99,
+    "lastPrice": 7.99
   },
   {
     "name": "Chá Funcional Sabor Hibisco Life Mix Boa Forma 1 Litro",
@@ -5665,11 +5665,6 @@
     "lastPrice": 139.89
   },
   {
-    "name": "Limonada Orgânica Poder Da Terra 1L",
-    "currentPrice": 9.99,
-    "lastPrice": 9.99
-  },
-  {
     "name": "Vinho Branco Suave Di Bartolo 750ml",
     "currentPrice": 16.9,
     "lastPrice": 16.9
@@ -5683,11 +5678,6 @@
     "name": "Suco Verde Juxx 1l",
     "currentPrice": 19.98,
     "lastPrice": 22.39
-  },
-  {
-    "name": "Vinho Branco Português Clássico Península das Vinhas Casa Ermelinda Freitas 750ml",
-    "currentPrice": 39.9,
-    "lastPrice": 39.9
   },
   {
     "name": "Vinho Tinto Seco Trivento Reserve Golden Malbec Lujan de Cuyo Mendoza 750 ml",
@@ -5733,11 +5723,6 @@
     "name": "Café Almofada Tradicional Jaguari 500 g",
     "currentPrice": 45.49,
     "lastPrice": 45.49
-  },
-  {
-    "name": "Vinho Tinto Alfredo Roca Malbec 750ml",
-    "currentPrice": 49.9,
-    "lastPrice": 49.9
   },
   {
     "name": "Refrigerante de Laranja Frutah 260ml",
@@ -5825,11 +5810,6 @@
     "lastPrice": 1.65
   },
   {
-    "name": "Kit Vinho Tinto Chileno Concha Y Toro Reservado Carménère com 12 unidades de 750 ml",
-    "currentPrice": 406.8,
-    "lastPrice": 406.8
-  },
-  {
     "name": "Combo Vodka Absolut 750 ml + 6 Água Tônica Antárctica Zero 350 ml",
     "currentPrice": 131.84,
     "lastPrice": 131.84
@@ -5845,6 +5825,11 @@
     "lastPrice": 1.19
   },
   {
+    "name": "Vinho Branco Português Clássico Península das Vinhas Casa Ermelinda Freitas 750ml",
+    "currentPrice": 39.9,
+    "lastPrice": 39.9
+  },
+  {
     "name": "Whisky Escocês Old Parr 12 anos 1L com 2 unidades",
     "currentPrice": 359.8,
     "lastPrice": 359.8
@@ -5853,6 +5838,11 @@
     "name": "Kit Whisky Irlandês Jameson 750ml + Whisky Escocês Chivas Regal 12 anos 1litro",
     "currentPrice": 329.8,
     "lastPrice": 329.8
+  },
+  {
+    "name": "Kit Vinho Tinto Chileno Concha Y Toro Reservado Carménère com 12 unidades de 750 ml",
+    "currentPrice": 406.8,
+    "lastPrice": 406.8
   },
   {
     "name": "Kit Vinho Tinto Chileno Concha Y Toro Reservado Cabernet Sauvignon com 12 unidades de 750ml",
@@ -5868,6 +5858,11 @@
     "name": "Bebida Láctea Mu Cappuccino Mais com 250 ml",
     "currentPrice": 9.49,
     "lastPrice": 9.49
+  },
+  {
+    "name": "Limonada Orgânica Poder Da Terra 1L",
+    "currentPrice": 9.99,
+    "lastPrice": 9.99
   },
   {
     "name": "Vinho Tinto Cotidiano Salton Merlot 750ml",
@@ -6015,11 +6010,6 @@
     "lastPrice": 39.9
   },
   {
-    "name": "Água Mineral Fitness Lindoya Verão 510ml",
-    "currentPrice": 5.9,
-    "lastPrice": 5.9
-  },
-  {
     "name": "Chá Sabor Rosa Silvestre, Hibisco e Cereja Ahmad Tea London Fruit & Herb Caixa com 10 Sachês",
     "currentPrice": 13.9,
     "lastPrice": 16.99
@@ -6090,6 +6080,11 @@
     "lastPrice": 0.99
   },
   {
+    "name": "Água Mineral Fitness Lindoya Verão 510ml",
+    "currentPrice": 5.9,
+    "lastPrice": 5.9
+  },
+  {
     "name": "Kit Whisky Johnnie Walker Black Label 750ml com 2 unidades",
     "currentPrice": 279.8,
     "lastPrice": 279.8
@@ -6105,24 +6100,29 @@
     "lastPrice": 14.74
   },
   {
-    "name": "Kit Refrigerante Guaraná Antarctica lata 269ml + Pipoca Microondas Cinema Manteiga Yoki 100g",
-    "currentPrice": 14.74,
-    "lastPrice": 14.74
-  },
-  {
     "name": "Fanta Laranja Pet 2L + Linguiça de Frango com Bacon Perdigão Na Brasa 600g",
     "currentPrice": 46.78,
     "lastPrice": 46.78
   },
   {
-    "name": "Kit Vinho Tinto Chileno Casillero del Diablo Cabernet Sauvignon Reserva com 12 unidades de 750 ml",
-    "currentPrice": 718.8,
-    "lastPrice": 718.8
-  },
-  {
     "name": "Refresco em pó Fresh Caju 15g",
     "currentPrice": 1.65,
     "lastPrice": 1.65
+  },
+  {
+    "name": "Vinho Tinto Alfredo Roca Malbec 750ml",
+    "currentPrice": 49.9,
+    "lastPrice": 49.9
+  },
+  {
+    "name": "Kit Refrigerante Guaraná Antarctica lata 269ml + Pipoca Microondas Cinema Manteiga Yoki 100g",
+    "currentPrice": 14.74,
+    "lastPrice": 14.74
+  },
+  {
+    "name": "Kit Vinho Tinto Chileno Casillero del Diablo Cabernet Sauvignon Reserva com 12 unidades de 750 ml",
+    "currentPrice": 718.8,
+    "lastPrice": 718.8
   },
   {
     "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Tangerina Frisco Pacote 18g",
@@ -6178,11 +6178,6 @@
     "name": "Vinho Branco Italiano Corte Magna Terre Siciliane 750 ml",
     "currentPrice": 31.98,
     "lastPrice": 39.9
-  },
-  {
-    "name": "Vinho Tinto Meio Seco Chileno Casa Crebar Merlot Reserva 750 ml",
-    "currentPrice": 49.9,
-    "lastPrice": 49.9
   },
   {
     "name": "Vinho Tinto Espanhol Los Molinos Garrafa 750ml",
@@ -6330,11 +6325,6 @@
     "lastPrice": 144.9
   },
   {
-    "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Abacaxi Frisco Pacote 18g",
-    "currentPrice": 0.99,
-    "lastPrice": 0.99
-  },
-  {
     "name": "Refrigerante Maçâ Clashd 269ml",
     "currentPrice": 4.49,
     "lastPrice": 4.49
@@ -6355,9 +6345,19 @@
     "lastPrice": 131.84
   },
   {
+    "name": "Vinho Tinto Meio Seco Chileno Casa Crebar Merlot Reserva 750 ml",
+    "currentPrice": 49.9,
+    "lastPrice": 49.9
+  },
+  {
     "name": "Alimento à Base de Soro de Leite, Permeado de Leite e Açúcar Colônia Holandesa Chocolade 1L",
     "currentPrice": 4.79,
     "lastPrice": 4.79
+  },
+  {
+    "name": "Preparado Sólido para Refresco em Pó Saborizado com Fruta Abacaxi Frisco Pacote 18g",
+    "currentPrice": 0.99,
+    "lastPrice": 0.99
   },
   {
     "name": "Vinho Tinto Seco Country Wine 750ml",
@@ -6455,11 +6455,6 @@
     "lastPrice": 109.9
   },
   {
-    "name": "Vinho Espanhol Tinto Meio Seco Seleccion Toro Loco Bobal Merlot Utiel-Requena Garrafa 750 ml",
-    "currentPrice": 69.9,
-    "lastPrice": 69.9
-  },
-  {
     "name": "Vinho Tinto Argentino Argento Malbec 750 ml",
     "currentPrice": 110,
     "lastPrice": 110
@@ -6545,24 +6540,29 @@
     "lastPrice": 3.59
   },
   {
-    "name": "Energético Red Bull Energy Drink 250 ml com 4 latas",
-    "currentPrice": 39.56,
-    "lastPrice": 39.56
-  },
-  {
     "name": "Chá Branco Funcional Sabor Laranja e Gengibre Life Mix Boa Forma 1 Litro",
     "currentPrice": 9.69,
     "lastPrice": 9.69
   },
   {
-    "name": "Vinho Tinto Chileno Adobe Reserva Emiliana Syrah 750 ml",
+    "name": "Refrigerante Limão Clashd 269ml",
+    "currentPrice": 4.49,
+    "lastPrice": 4.49
+  },
+  {
+    "name": "Energético Red Bull Energy Drink 250 ml com 4 latas",
+    "currentPrice": 39.56,
+    "lastPrice": 39.56
+  },
+  {
+    "name": "Vinho Espanhol Tinto Meio Seco Seleccion Toro Loco Bobal Merlot Utiel-Requena Garrafa 750 ml",
     "currentPrice": 69.9,
     "lastPrice": 69.9
   },
   {
-    "name": "Refrigerante Limão Clashd 269ml",
-    "currentPrice": 4.49,
-    "lastPrice": 4.49
+    "name": "Vinho Tinto Chileno Adobe Reserva Emiliana Syrah 750 ml",
+    "currentPrice": 69.9,
+    "lastPrice": 69.9
   },
   {
     "name": "Cachaça Salinas Carvalho 700 ml",
@@ -6620,11 +6620,6 @@
     "lastPrice": 83.49
   },
   {
-    "name": "Vinho Tinto Chileno Panul Malbec Viñedos Marchigue 750ml",
-    "currentPrice": 32.99,
-    "lastPrice": 32.99
-  },
-  {
     "name": "Refrigerante de Guaraná Tubaína Tutti Frutti Sukita Lata 350ml",
     "currentPrice": 56.89,
     "lastPrice": 56.89
@@ -6655,11 +6650,6 @@
     "lastPrice": 5.29
   },
   {
-    "name": "Vinho Roca Bonarda Sangiovese 2019 750 ml",
-    "currentPrice": 49.9,
-    "lastPrice": 49.9
-  },
-  {
     "name": "Vinho Tinto Suave Di Bartolo 1,5 Litros",
     "currentPrice": 35.9,
     "lastPrice": 35.9
@@ -6673,11 +6663,6 @@
     "name": "Bebida Adoçada Morango Imunomix Os Aventureiros Caixa 200 ml",
     "currentPrice": 2.89,
     "lastPrice": 2.89
-  },
-  {
-    "name": "Combo Gin Gordons Premium Pink 700ml + Água Tônica Antartica 350ml 3 Unidades",
-    "currentPrice": 88.87,
-    "lastPrice": 88.87
   },
   {
     "name": "Gin Tanqueray Sevilla 700 ml + 6 Tônicas Schweppes sem Açúcar Lata 350 ml",
@@ -6705,6 +6690,11 @@
     "lastPrice": 59.9
   },
   {
+    "name": "Vinho Tinto Chileno Panul Malbec Viñedos Marchigue 750ml",
+    "currentPrice": 32.99,
+    "lastPrice": 32.99
+  },
+  {
     "name": "Cachaça Sagatiba Cristalina 700ml + 3 Schweppes Citrus Lata 350 ml",
     "currentPrice": 62.2,
     "lastPrice": 62.2
@@ -6715,9 +6705,24 @@
     "lastPrice": 259.8
   },
   {
+    "name": "Combo Gin Gordons Premium Pink 700ml + Água Tônica Antartica 350ml 3 Unidades",
+    "currentPrice": 88.87,
+    "lastPrice": 88.87
+  },
+  {
+    "name": "Bebida Orgânica Limonada e Gengibre Poder da Terra Caixa 1 L",
+    "currentPrice": 9.99,
+    "lastPrice": 9.99
+  },
+  {
     "name": "Bebida Adoçada Citrus Punch Del Valle Frut Garrafa 450 ml",
     "currentPrice": 3.09,
     "lastPrice": 3.09
+  },
+  {
+    "name": "Vinho Roca Bonarda Sangiovese 2019 750 ml",
+    "currentPrice": 49.9,
+    "lastPrice": 49.9
   },
   {
     "name": "Refresco em pó Fresh Laranja 15g",
@@ -6728,11 +6733,6 @@
     "name": "Chá com Gás Matcha & Cafeína Natural sem Adição de Açúcar Baer-Matcha 350ml",
     "currentPrice": 8.99,
     "lastPrice": 8.99
-  },
-  {
-    "name": "Bebida Orgânica Limonada e Gengibre Poder da Terra Caixa 1 L",
-    "currentPrice": 9.99,
-    "lastPrice": 9.99
   },
   {
     "name": "Vinho Tinto Chileno 18 Valle Central Cabernet Sauvignon 750 ml",
@@ -6800,14 +6800,14 @@
     "lastPrice": 4.39
   },
   {
-    "name": "Cerveja Heineken Brasil 5 Litros com 2 unidades",
-    "currentPrice": 399.96,
-    "lastPrice": 399.96
-  },
-  {
     "name": "Cerveja Império Puro Malte Lager 269ml",
     "currentPrice": 2.59,
     "lastPrice": 2.59
+  },
+  {
+    "name": "Cerveja Heineken Brasil 5 Litros com 2 unidades",
+    "currentPrice": 399.96,
+    "lastPrice": 399.96
   },
   {
     "name": "Água Mineral Natural sem Gás Ama 500ml",
@@ -7295,11 +7295,6 @@
     "lastPrice": 64.9
   },
   {
-    "name": "Suco De Laranja Integral OQ 300ml",
-    "currentPrice": 7.79,
-    "lastPrice": 7.79
-  },
-  {
     "name": "Bebida Láctea Jamava Polpa de Salada de Frutas 110g",
     "currentPrice": 0,
     "lastPrice": 0
@@ -7313,6 +7308,11 @@
     "name": "Cerveja Serramalte Puro Malte 350ml Lata",
     "currentPrice": 3.89,
     "lastPrice": 4.49
+  },
+  {
+    "name": "Suco De Laranja Integral OQ 300ml",
+    "currentPrice": 7.79,
+    "lastPrice": 7.79
   },
   {
     "name": "Refresco em Pó Tangerina Mid 20 g",
